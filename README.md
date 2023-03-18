@@ -1,4 +1,5 @@
 Hey there! 👋
+
 I'm a UX/UI designer and data analysis fresher with a BCA degree. I'm passionate about creating intuitive and 
 engaging user experiences that meet business goals through data-driven design decisions.
 
